@@ -17,8 +17,7 @@ AI-Driven Root Cause Analysis: Utilize Key Influencers and Decomposition Trees t
 
 🛠️ Tech Stack & Tools
 Microsoft Excel: Data auditing, missing value imputation, and reference table creation.
-Power BI & Power Query: Data transformation, ETL processes, and Star Schema modeling.
-DAX (Data Analysis Expressions): Advanced measures for time intelligence and KPI tracking.
+Advanced measures for time intelligence and KPI tracking.
 
 
 📂 Data Transformation (ETL)
