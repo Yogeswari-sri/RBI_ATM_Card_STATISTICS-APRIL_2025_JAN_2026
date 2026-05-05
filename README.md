@@ -4,6 +4,7 @@ Based on Network Size,The CRM Revolution,Cash in Circulation,Debit card and Cred
 and also analysis Debit card Volume and Credit Card Volume.
 Average POS Usage.
 DataCo Smart Supply Chain Analysis 🚛📊
+
 📌 Project Overview
 This project provides a comprehensive data analysis of a global supply chain network using Excel and Power BI. The primary focus is on identifying logistical bottlenecks, quantifying late delivery risks, and uncovering financial leakage points to optimize overall supply chain health.
 
@@ -13,10 +14,13 @@ Quantify Late Delivery Risk: Diagnose the factors behind the 55% failure rate.
 Identify Financial Leakage: Isolate "Loss Zones" where high discounts erode profit margins.
 Evaluate Shipping Mode Efficiency: Investigate why 'First Class' shipping has a 1.8x higher risk of delay.
 AI-Driven Root Cause Analysis: Utilize Key Influencers and Decomposition Trees to find hidden drivers of delays.
+
 🛠️ Tech Stack & Tools
 Microsoft Excel: Data auditing, missing value imputation, and reference table creation.
 Power BI & Power Query: Data transformation, ETL processes, and Star Schema modeling.
 DAX (Data Analysis Expressions): Advanced measures for time intelligence and KPI tracking.
+
+
 📂 Data Transformation (ETL)
 Standardization: Translated geographic names from Spanish to English for global reporting.
 Feature Engineering: Calculated "Delivery Delay" and "Arrival Logic" using DATEDIFF and Date functions.
