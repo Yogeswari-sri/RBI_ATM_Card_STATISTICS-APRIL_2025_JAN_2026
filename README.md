@@ -24,6 +24,11 @@ Advanced measures for time intelligence and KPI tracking.
 Standardization: Translated geographic names from Spanish to English for global reporting.
 Feature Engineering: Calculated "Delivery Delay" and "Arrival Logic" using DATEDIFF and Date functions.
 Data Modeling: Implemented a Star Schema connecting a central Fact Table (Order_Transactions) to several Dimension Tables (Product, Customer, Location, Department, and Calendar).
+
+OUTPUT:
+
+<img width="1600" height="900" alt="l" src="https://github.com/user-attachments/assets/4f6c2f3d-0cd4-4833-925b-e706e9e8a214" />
+
 💡 Key Insights
 Operational Lag: The actual average delivery time is 7 days, exceeding the target of 4 days by 75%.
 The Shipping Paradox: AI insights revealed that 'First Class' shipping, meant for speed, actually increases late delivery probability by 1.8x.
